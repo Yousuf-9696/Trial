@@ -1,2 +1,4 @@
 # Trial
-idk bro
+First Git Repository.
+<br>
+Author - idk bro
